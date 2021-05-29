@@ -1,5 +1,5 @@
-#ifndef _SERVER_H_
-#define _SERVER_H_
+#ifndef _ATTO_H_
+#define _ATTO_H_
 
 typedef struct atto_server {
     const char *port;

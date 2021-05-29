@@ -4,7 +4,7 @@
 #include <string.h>
 #include <sys/socket.h>
 #include <netdb.h>
-#include "server.h"
+#include "atto.h"
 
 #define LISTEN_QUEUE_SIZE 10
 
